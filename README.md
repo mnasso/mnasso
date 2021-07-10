@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mnasso
-- 👀 I’m interested in website design
-- 🌱 I’m currently developing my skills in Javascript
+- 👋 Hi, I’m Michael
+- 👀 My passion is website design
+- 🌱 I’m currently developing my Javascript skills
 - 📫 How to reach me ... michaelnasso1@gmail.com
 
 <!---

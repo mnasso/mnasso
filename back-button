@@ -1,0 +1,10 @@
+<!-- back to previous page button, rounded corners, Paws & Waag -->
+
+<stlye>
+  border-radius: 5px;
+  font: 14px Montserrat;
+</style>
+
+<p style="text-align: center;">
+<a href="javascript:history.back()" class="back-button">← Go Back</a>
+</p>
